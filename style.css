@@ -1,0 +1,15 @@
+
+
+.heading-effects{
+    background-color: aqua;
+    color:bisque;
+    font-size: 2rem;
+    
+}
+.button1-effects{
+    padding: 15px 5px;
+    border: 4px solid black;
+    border-radius: 0.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+}
